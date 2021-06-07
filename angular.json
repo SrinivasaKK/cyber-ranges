@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cyber-ranges"
+    }
+  },
+  "defaultProject": "cyber-ranges",
+  "cli": {
+    "analytics": false
+  }
 }
